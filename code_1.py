@@ -40,7 +40,7 @@ if num != 0:
         else:
                 if b > c:
                         num_bot = 2
-                        print ('El bot escoje Papiro., por lo tanto:')
+                        print ('El bot escoje Papiro. /////, por lo tanto:')
                 else:   
                         if c > a:  
                                 num_bot = 3
