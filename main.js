@@ -5,12 +5,14 @@ function human(num) {
     switch (x) {
         case 1:
             count_hum = 1;
+
             ph1 = ("Escojes Cuarzo")
 
             break;
 
         case 2:
             count_hum = 2;
+
             ph1 = ("Escojes Papiro")
             break;
 
@@ -76,3 +78,4 @@ function game() {
 function reset() {
     document.getElementById("bot").innerHTML = "_";
 }
+
